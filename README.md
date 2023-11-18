@@ -1,8 +1,9 @@
 # SJDM2023
 
-## Poster
+## My Poster
+### Additional Info
 Total number of songs across all countries: 41,731
-
+Mean number of songs per country: 1,430.14 (SD = 393.93)
 
 ### References
 
